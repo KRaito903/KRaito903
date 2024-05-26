@@ -2,8 +2,8 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web developeer
 - 📫 How to reach me khoile903@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: cat cat cat
+- 😄 Pronouns: Raito
+- ⚡ Fun fact: cat cat cat 
 
 <!---
 KRaito903/KRaito903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
